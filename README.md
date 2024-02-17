@@ -1,5 +1,7 @@
 # Youtube converter to mp3
 
+Convert YouTube videos to MP3 effortlessly with our app. Simply paste the video link, hit download, and get your MP3 file. Quick, easy, and hassle-free. 
+
 Note: Only available for linux !
 
 ## Disclaimer
