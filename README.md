@@ -4,6 +4,9 @@ Convert YouTube videos to MP3 effortlessly with our app. Simply paste the video 
 
 Note: Only available for linux !
 
+![image](https://github.com/craftsmanapps/youtube2mp3-exec/assets/160058239/fd34a026-8226-48af-8efd-2ee2b1fd22f4)
+
+
 ## Disclaimer
 
 It is imperative that all users read and understand the software license agreement before any interaction. By proceeding with the installation, access, use, or distribution of this software, you agree to fully comply with the terms and conditions set forth in the license. Any contrary action may result in legal implications. We recommend carefully reading the aforementioned license to ensure full compliance.
